@@ -69,7 +69,7 @@ void speedTest() {
     double ratio = seq / par;
     std::cout << "ratio: " << ratio << std::endl;
     assert(ratio > 3);
-    std::cout << "Sped test PASSED" << std::endl;
+    std::cout << "Speed test PASSED" << std::endl;
 
 }
 
